@@ -2,4 +2,4 @@
 #include <SPI.h>
 #include <SD.h>
 #include "MPU6050.h"
-#include "bmp085.h"
+#include "BMP085.h"
